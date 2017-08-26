@@ -1,2 +1,2 @@
 # football
-vue2 for football
+vue2.0 for football
