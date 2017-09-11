@@ -12,7 +12,3 @@ export function getRank(type,league) {
   	return Promise.resolve(res)
   })
 }
-
-export function getScore() {
-  console.log('score')
-}

@@ -1,4 +1,3 @@
-import {commonParams} from './config'
 import axios from 'common/js/http'
 
 //  var qs = require('qs') // 使用qs自动将请求头的Content-Type设置为application/x-www-form-urlencoded
