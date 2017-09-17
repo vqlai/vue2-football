@@ -11,13 +11,13 @@
 
 ## 项目截图
 
-![image](https://github.com/vqlai/vue2-football/static/1.jpg)
+![image](https://github.com/vqlai/vue2-football/blob/master/static/1.jpg)
 
-![image](https://github.com/vqlai/vue2-football/static/2.jpg)
+![image](https://github.com/vqlai/vue2-football/blob/master/static/2.jpg)
 
-![image](https://github.com/vqlai/vue2-football/static/3.jpg)
+![image](https://github.com/vqlai/vue2-football/blob/master/static/3.jpg)
 
-![image](https://github.com/vqlai/vue2-football/static/4.jpg)
+![image](https://github.com/vqlai/vue2-football/blob/master/static/4.jpg)
 
 ### 安装与运行
 
