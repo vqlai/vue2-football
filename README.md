@@ -1,13 +1,13 @@
 # vue2-football
 
 > Vue2—爆炸足球
-这是一款模仿懂球帝移动端官网的项目-爆炸足球，欢迎各位童鞋star 
+模仿懂球帝移动端官网，欢迎各位童鞋star 
 
 ## 技术栈
 
 前端 es6 vue2 vue-router2 axios better-scroll vue-lazyload stylus 
 
-后端 暂无后台，通过webpack HTTP代理的方式请求懂球帝官网api获取数据
+后端 通过webpack HTTP代理的方式请求懂球帝官网api获取数据
 
 ## 项目截图
 
