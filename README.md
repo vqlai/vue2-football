@@ -7,7 +7,7 @@
 
 前端 es6 vue2 vue-router2 axios better-scroll vue-lazyload stylus 
 
-后端 通过webpack HTTP代理的方式请求懂球帝官网api获取数据
+后端 通过webpack 设置HTTP代理的方式请求懂球帝官网api获取数据
 
 ## 项目截图
 

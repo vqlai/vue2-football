@@ -10,7 +10,7 @@ const Data = () => import('pages/data/data.vue')
 const Video = () => import('pages/video/video.vue')
 
 const router = new Router({
-  // routes配置最好加上name，用于参数传递
+  // routes配置最好加上name属性，用于参数传递
   routes: [
    {
       path: '/',
