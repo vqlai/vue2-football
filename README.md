@@ -5,26 +5,24 @@
 
 ## 技术栈
 
-前端 es6 vue2 webpack2 vue-router2 axios better-scroll vue-lazyload
+前端 es6 vue2 vue-router2 axios better-scroll vue-lazyload stylus 
 
 后端 暂无后台，通过webpack HTTP代理的方式请求懂球帝官网api获取数据
 
 ## 项目截图
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/1.png)
+![image](https://github.com/vqlai/vue2-football/static/1.jpg)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/2.png)
+![image](https://github.com/vqlai/vue2-football/static/2.jpg)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/3.png)
+![image](https://github.com/vqlai/vue2-football/static/3.jpg)
 
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/4.png)
-
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/5.png)
+![image](https://github.com/vqlai/vue2-football/static/4.jpg)
 
 ### 安装与运行
 
 ```
-git clone https://github.com/songhaoreact/vue-music.git
+git clone https://github.com/vqlai/vue2-football.git
 
 cd vue2-football
 

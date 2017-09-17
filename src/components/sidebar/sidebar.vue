@@ -56,7 +56,7 @@
       background: rgba(0,0,0,.6)
     .wrapper  
       width: 60%
-      height: auto
+      height: 100%
       position: fixed
       top: 0
       right: 0
@@ -92,13 +92,13 @@
           width: 100%
       .content
         p
-          font-size: 1rem
-          line-height: 1.3rem
+          font-size: 1.2rem
+          line-height: 1.4rem
           color: #fff
         h3
           padding-top: 8%
           color: rgba(244,210,32,1)
-          font-size: 1.1rem
+          font-size: 1.2rem
           line-height: 1.4rem
       .code
         margin: 0 auto
