@@ -32,6 +32,11 @@ npm run dev //服务端运行 访问 http://localhost:8080
 
 npm run build 项目打包 
 
-node server.js 运行打包后代码 
+
+运行打包后代码
+
+cd dist
+
+node server.js  访问 http://localhost:8060
 
 欢迎各位童鞋star，有任何问题可以在这里提issue，谢谢你的支持。
