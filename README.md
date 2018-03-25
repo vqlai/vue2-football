@@ -38,8 +38,10 @@ npm run build 项目打包
 
 运行打包后代码
 
+将server.js复制到dist文件夹下 
+
 cd dist
 
-node server.js  访问 http://localhost:8060
+node server.js  访问 http://localhost:8060（确保已经安装node环境）
 
 欢迎各位童鞋star，有任何问题可以在这里提issue，谢谢你的支持。
