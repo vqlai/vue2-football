@@ -9,6 +9,9 @@
 
 后端 通过webpack 设置HTTP代理的方式请求懂球帝官网api获取数据
 
+## 项目预览
+[在线预览](http://193.112.77.76:8000/#/news)
+
 ## 项目截图
 
 ![image](https://github.com/vqlai/vue2-football/blob/master/static/1.jpg)
