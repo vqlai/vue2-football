@@ -10,7 +10,7 @@
 后端 通过webpack 设置HTTP代理的方式请求懂球帝官网api获取数据
 
 ## 项目预览
-[在线预览](!https://www.sycho.cn/football/#/news)
+[在线预览](https://www.sycho.cn/football/#/news)
 
 ## 项目截图
 
